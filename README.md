@@ -15,10 +15,10 @@ This repository serves as a comprehensive collection of my journey through the "
 
 My Goals for this course is:
 
-🚀 Complete 100 Python Challenges
-🚀 Become proficient in Python
-🚀 Understand Data Analysis using Python 
-🚀 App development using Python
+#🚀 Complete 100 Python Challenges
+#🚀 Become proficient in Python
+#🚀 Understand Data Analysis using Python 
+#🚀 App development using Python
 
 ## Repository Structure
 
