@@ -4,28 +4,33 @@ Welcome to my "100 Days of Code" repository! This repository contains Python cod
 
 ## Contents
 
-- [Introduction](#introduction)
+- [Introduction & Goals](#introduction-&-goals)
 - [Repository Structure](#repository-structure)
 - [Course Overview](#course-overview)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-This repository serves as a comprehensive collection of my journey through the "100 Days of Code" Python Bootcamp on Udemy. The course covers a wide range of Python topics, from basics to advanced concepts, including web development, data science, and automation.
+This repository serves as a comprehensive collection of my journey through the "100 Days of Code" Python Bootcamp on Udemy. The course covers a wide range of Python topics, from basics to advanced concepts, including web development, data science, and automation. 
+
+My Goals for this course is:
+
+🚀 Complete 100 Python Challenges
+🚀 Become proficient in Python
+🚀 Understand Data Analysis using Python 
+🚀 App development using Python
 
 ## Repository Structure
 
 The repository is organized into directories corresponding to each day of the course:
 
-- `Day_01/`: Day 1 - Python Basics
-- `Day_02/`: Day 2 - Intermediate Python
-- `Day_03/`: Day 3 - Advanced Python
+- `Day_01/`: Day 1 - Band Name Generator
+- `Day_02/`: Day 2 - Tip Calculator
+- `Day_03/`: Day 3 - Treasure Island
 - ...
 - `Day_100/`: Day 100 - Final Project
 
-Each directory contains Python files (`.py`) and Jupyter notebooks (`.ipynb`) that include code examples, exercises, and projects for that particular day.
+Some files will be supporting files or text/images for the challenges
 
 ## Course Overview
 
@@ -44,43 +49,9 @@ The course covers a variety of topics, including but not limited to:
 - Web Development with Flask and Django
 - Automation with Python
 
-## How to Use
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/100-days-of-code.git
-    cd 100-days-of-code
-    ```
-
-2. **Navigate to the directory of interest**:
-    ```sh
-    cd Day_01
-    # or
-    cd Day_50
-    ```
-
-3. **Run the Python files** using your preferred Python environment. You can use command line or a Python IDE like PyCharm, VSCode, or Jupyter Notebook.
-
-4. **Follow any additional instructions** provided in the individual day directories or within the code files for specific setup or context.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or additional resources that you think would be beneficial, please feel free to fork this repository and submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
 
-Feel free to reach out if you have any questions or suggestions. Happy coding!
-
----
-
-This structure should help you create a well-organized and informative README file for your "100 Days of Code" repository on GitHub.
