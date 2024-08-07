@@ -1,4 +1,4 @@
-# 100 Days of Code: Python Bootcamp
+# 🐍 100 Days of Code: Python Bootcamp 🐍
 
 Welcome to my "100 Days of Code" repository! This repository contains Python code examples, exercises, and projects that I have completed as part of the Udemy course [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/?couponCode=ACCAGE0923).
 
